@@ -1,0 +1,13 @@
+matplotlib
+numpy
+optuna
+pandas
+pytorch_lightning
+torch
+torchmetrics
+tqdm
+pyarrow
+fastparquet
+darts
+IPython
+nixtlas

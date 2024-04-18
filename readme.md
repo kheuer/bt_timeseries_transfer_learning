@@ -15,3 +15,6 @@ of integrating diverse data sources in predictive modeling for financial time se
 Henricus Pieter Bracht 
 and 
 Koos Assheuer
+
+The full paper is available [via this link.](https://github.com/kheuer/bt_timeseries_transfer_learning/blob/main/Is%20incorporating%20data%20from%20various%20sources%20beneficial%20for%20time%20series%20predictions%20on%20stock%20prices%20using%20neural%20forecast%20methods.pdf)
+
